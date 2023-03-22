@@ -3620,3 +3620,201 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2023.03.22-17.05.24:765][280]SourceControl:  create mode 100644 Content/Megascans/3D_Assets/Female_Bust_Statuette_ugsicgxva/T_Female_Bust_Statuette_ugsicgxva_4K_D.uasset
 [2023.03.22-17.05.24:765][280]SourceControl:  create mode 100644 Content/Megascans/3D_Assets/Female_Bust_Statuette_ugsicgxva/T_Female_Bust_Statuette_ugsicgxva_4K_N.uasset
 [2023.03.22-17.05.24:778][280]SourceControl: Commited [main 1db9e46] house03.
+[2023.03.22-17.05.43:729][372]LogDerivedDataCache: C:/Users/Rcp/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:48.778 and deleted 0 files with total size 0 MiB. Scanned 25306 files in 24210 folders with total size 5487 MiB.
+[2023.03.22-17.12.49:108][576]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.22-17.12.49:122][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-17.12.49:122][576]PIE: New page: PIE session: MyDemo (22 Mar 2023 23:12:49)
+[2023.03.22-17.12.49:144][576]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_MyDemo
+[2023.03.22-17.12.49:243][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.098583s)
+[2023.03.22-17.12.49:243][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/MyDemo.MyDemo to /Game/HorrorEngine/Maps/UEDPIE_0_MyDemo.MyDemo (0.098634s)
+[2023.03.22-17.12.49:243][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-17.12.49:243][576]LogAIModule: Creating AISystem for world MyDemo
+[2023.03.22-17.12.49:244][576]LogPlayLevel: PIE: World Init took: (0.001497s)
+[2023.03.22-17.12.49:266][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.03.22-17.12.49:268][576]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.03.22-17.12.49:268][576]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-17.12.49:268][576]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-17.12.49:268][576]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-17.12.49:268][576]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-17.12.49:268][576]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.22-17.12.49:268][576]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.22-17.12.49:268][576]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.22-17.12.49:268][576]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-17.12.49:269][576]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-17.12.49:269][576]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-17.12.49:269][576]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-17.12.49:272][576]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.22-17.12.49:356][576]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek High Definition Audio)
+[2023.03.22-17.12.49:357][576]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-17.12.49:357][576]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-17.12.49:357][576]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-17.12.49:358][576]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.03.22-17.12.49:358][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.03.22-17.12.49:360][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.03.22-17.12.49:360][576]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.03.22-17.12.49:360][576]LogInit: FAudioDevice initialized.
+[2023.03.22-17.12.49:360][576]LogAudio: Display: Audio Device (ID: 12) registered with world 'MyDemo'.
+[2023.03.22-17.12.49:363][576]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2023.03.22-17.12.49:397][576]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_MyDemo.MyDemo up for play (max tick rate 0) at 2023.03.22-20.12.49
+[2023.03.22-17.12.49:397][576]LogWorld: Bringing up level for play took: 0.034042
+[2023.03.22-17.12.49:400][576]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.03.22-17.12.49:400][576]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.22-17.12.49:408][576]PIE: Server logged in
+[2023.03.22-17.12.49:409][576]PIE: Play in editor total start time 0,287 seconds.
+[2023.03.22-17.12.53:584][954]Cmd: LevelEditor.ToggleImmersive
+[2023.03.22-17.12.53:615][954]LogViewport: Scene viewport resized to 1014x356, mode Windowed.
+[2023.03.22-17.12.53:655][954]LogViewport: Scene viewport resized to 1014x356, mode Windowed.
+[2023.03.22-17.12.53:693][954]LogViewport: Scene viewport resized to 1014x356, mode Windowed.
+[2023.03.22-17.12.53:734][954]LogViewport: Scene viewport resized to 2306x1071, mode Windowed.
+[2023.03.22-17.12.53:778][955]LogViewport: Scene viewport resized to 2560x1400, mode Windowed.
+[2023.03.22-17.13.39:245][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-17.13.39:245][456]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_MyDemo
+[2023.03.22-17.13.39:245][456]LogWorld: UWorld::CleanupWorld for MyDemo, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.13.39:249][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.13.39:254][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-17.13.39:259][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.13.39:279][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.22-17.13.39:279][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.03.22-17.13.39:281][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.03.22-17.13.39:288][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-17.13.39:296][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.03.22-17.13.39:372][457]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.03.22-17.13.40:577][547]LogViewport: Scene viewport resized to 2385x1174, mode Windowed.
+[2023.03.22-17.13.40:627][548]LogViewport: Scene viewport resized to 2043x730, mode Windowed.
+[2023.03.22-17.13.40:711][549]LogViewport: Scene viewport resized to 2033x718, mode Windowed.
+[2023.03.22-17.14.25:921][823]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.03.22-17.15.46:783][555]LogTexture: Display: Building textures: /Game/Northwood/Textures/Unique/TX_Candles_01a_NN_SS.TX_Candles_01a_NN_SS (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.22-17.15.46:806][555]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Northwood/Meshes/Props/Nanite/SM_Candles_NN_01a.SM_Candles_NN_01a
+[2023.03.22-17.15.46:806][555]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Northwood/Meshes/Props/Nanite/SM_Candles_NN_01a.SM_Candles_NN_01a
+[2023.03.22-17.15.46:807][555]LogActorFactory: Actor Factory spawned StaticMesh /Game/Northwood/Meshes/Props/Nanite/SM_Candles_NN_01a.SM_Candles_NN_01a as actor: StaticMeshActor /Game/HorrorEngine/Maps/MyDemo.MyDemo:PersistentLevel.StaticMeshActor_471
+[2023.03.22-17.15.46:813][555]LogTexture: Display: Building textures: /Game/Northwood/Textures/Unique/TX_Candles_01a_NN_NRM.TX_Candles_01a_NN_NRM (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2023.03.22-17.15.46:816][555]LogTexture: Display: Building textures: /Game/Northwood/Textures/Unique/TX_Candles_01a_NN_ALB.TX_Candles_01a_NN_ALB (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.22-17.15.46:826][555]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Northwood/Meshes/Props/Nanite/SM_Candles_NN_01a) ...
+[2023.03.22-17.15.46:830][555]LogTexture: Display: Building textures: /Game/Northwood/Textures/Unique/TX_Candles_01a_NN_RMA.TX_Candles_01a_NN_RMA (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2023.03.22-17.15.48:050][555]LogStaticMesh: Display: Building static mesh SM_Candles_NN_01a...
+[2023.03.22-17.15.50:756][555]LogStaticMesh: Adjacency [0.11s], tris: 211180, UVs 2
+[2023.03.22-17.15.51:279][555]LogStaticMesh: Clustering [0.52s]. Ratio: 1.016970
+[2023.03.22-17.15.51:315][555]LogStaticMesh: Leaves [0.04s]
+[2023.03.22-17.15.56:812][555]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s
+[2023.03.22-17.15.58:877][555]LogStaticMesh: Reduce [7.56s]
+[2023.03.22-17.15.59:137][555]LogStaticMesh: Fallback 0/4 [0.26s], num tris: 2610
+[2023.03.22-17.15.59:611][555]LogStaticMesh: Fallback 1/4 [0.47s], num tris: 1304
+[2023.03.22-17.16.00:141][555]LogStaticMesh: Fallback 2/4 [0.53s], num tris: 652
+[2023.03.22-17.16.00:633][555]LogStaticMesh: Fallback 3/4 [0.49s], num tris: 326
+[2023.03.22-17.16.00:806][555]LogStaticMesh: ConstrainClusters:
+[2023.03.22-17.16.00:806][555]LogStaticMesh:   Input: 3428 Clusters, 431574 Triangles and 297045 Vertices
+[2023.03.22-17.16.00:806][555]LogStaticMesh:   Output without splits: 3428 Clusters, 431574 Triangles and 306182 Vertices
+[2023.03.22-17.16.00:806][555]LogStaticMesh:   Output with splits: 3428 Clusters, 431574 Triangles and 306182 Vertices
+[2023.03.22-17.16.00:813][555]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 3428, Slow Path Clusters: 0, 1 Material: 3428, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.03.22-17.16.00:941][555]LogStaticMesh: WritePages:
+[2023.03.22-17.16.00:941][555]LogStaticMesh:   Root: GPU size: 32464 bytes. 1 Pages. 32464.000 bytes per page (99.072% utilization).
+[2023.03.22-17.16.00:941][555]LogStaticMesh:   Streaming: GPU size: 4591320 bytes. 36 Pages (35 with relative encoding). 127536.664 bytes per page (97.303% utilization).
+[2023.03.22-17.16.00:941][555]LogStaticMesh:   Page data disk size: 3444204 bytes. Fixup data size: 21256 bytes.
+[2023.03.22-17.16.00:941][555]LogStaticMesh:   Total GPU size: 4623784 bytes, Total disk size: 3465460 bytes.
+[2023.03.22-17.16.00:941][555]LogStaticMesh: Encode [0.31s]
+[2023.03.22-17.16.00:941][555]LogStaticMesh: Nanite build [9.63s]
+
+[2023.03.22-17.16.00:977][555]LogStaticMesh: Built static mesh [12.93s] /Game/Northwood/Meshes/Props/Nanite/SM_Candles_NN_01a.SM_Candles_NN_01a
+[2023.03.22-17.16.01:015][555]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 0.005945s (4.207554s overbudget)
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: ================================================
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Total job queries 1024, among them cache hits 549 (53.61%)
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Tracking 471 distinct input hashes that result in 280 distinct outputs (59.45%)
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: RAM used: 1.29 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.16%
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Shaders Compiled: 190
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Jobs assigned 194, completed 190 (97.94%)
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Average time worker was idle: 77.29 s
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Time job spent in pending queue: average 1.20 s, longest 6.89 s
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Job execution time: average 1.74 s, max 4.53 s
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Job life time (pending + execution): average 2.96 s, max 8.42
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 98.63 s
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Jobs were issued in 194 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Average processing rate: 1.93 jobs/sec
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Total thread time: 276.26 s
+[2023.03.22-17.16.02:814][644]LogShaderCompilers: Display: Total thread preprocess time: 24.58 s
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display: Percentage time preprocessing: 8.90%
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display: Effective parallelization: 2.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   19 times, average 1.75 sec, max 3.04 sec, min 1.01 sec)
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled   10 times, average 1.74 sec, max 2.30 sec, min 1.57 sec)
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   10 times, average 1.73 sec, max 2.25 sec, min 1.52 sec)
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight (compiled   10 times, average 1.68 sec, max 2.06 sec, min 1.51 sec)
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   19 times, average 1.65 sec, max 2.79 sec, min 0.98 sec)
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.06% of total time (compiled   19 times, average 1.75 sec, max 3.04 sec, min 1.01 sec)
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.32% of total time (compiled   19 times, average 1.65 sec, max 2.79 sec, min 0.98 sec)
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.42% of total time (compiled   14 times, average 1.46 sec, max 2.40 sec, min 0.89 sec)
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.30% of total time (compiled   10 times, average 1.74 sec, max 2.30 sec, min 1.57 sec)
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight - 6.27% of total time (compiled   10 times, average 1.73 sec, max 2.25 sec, min 1.52 sec)
+[2023.03.22-17.16.02:815][644]LogShaderCompilers: Display: ================================================
+[2023.03.22-17.16.05:020][731]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Northwood/Meshes/Props/Nanite/SM_Candles_NN_01a.SM_Candles_NN_01a
+[2023.03.22-17.16.05:020][731]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Northwood/Meshes/Props/Nanite/SM_Candles_NN_01a.SM_Candles_NN_01a
+[2023.03.22-17.16.05:022][731]LogActorFactory: Actor Factory spawned StaticMesh /Game/Northwood/Meshes/Props/Nanite/SM_Candles_NN_01a.SM_Candles_NN_01a as actor: StaticMeshActor /Game/HorrorEngine/Maps/MyDemo.MyDemo:PersistentLevel.StaticMeshActor_472
+[2023.03.22-17.16.07:139][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.03.22-17.16.07:145][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/HorrorEngine/Maps/MyDemo" FILE="../../../../Projects/Demo02/Saved/Autosaves/Game/HorrorEngine/Maps/MyDemo_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.22-17.16.07:399][866]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/HorrorEngine/Maps/MyDemo_Auto4
+[2023.03.22-17.16.07:399][866]LogSavePackage: Moving '../../../../Projects/Demo02/Saved/MyDemo_Auto46AEEF9EC47992A80DB6FA6B332E6C113.tmp' to '../../../../Projects/Demo02/Saved/Autosaves/Game/HorrorEngine/Maps/MyDemo_Auto4.umap'
+[2023.03.22-17.16.07:411][866]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/HorrorEngine/Maps/MyDemo' took 0.298
+[2023.03.22-17.16.07:411][866]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.298
+[2023.03.22-17.16.07:759][889]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.22-17.16.07:779][889]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.22-17.16.07:779][889]PIE: New page: PIE session: MyDemo (22 Mar 2023 23:16:07)
+[2023.03.22-17.16.07:779][889]LogPlayLevel: Creating play world package: /Game/HorrorEngine/Maps/UEDPIE_0_MyDemo
+[2023.03.22-17.16.07:876][889]LogPlayLevel: PIE: StaticDuplicateObject took: (0.097508s)
+[2023.03.22-17.16.07:876][889]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/HorrorEngine/Maps/MyDemo.MyDemo to /Game/HorrorEngine/Maps/UEDPIE_0_MyDemo.MyDemo (0.097560s)
+[2023.03.22-17.16.07:876][889]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.22-17.16.07:877][889]LogAIModule: Creating AISystem for world MyDemo
+[2023.03.22-17.16.07:878][889]LogPlayLevel: PIE: World Init took: (0.001363s)
+[2023.03.22-17.16.07:903][889]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.03.22-17.16.07:904][889]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.03.22-17.16.07:904][889]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.22-17.16.07:904][889]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.22-17.16.07:904][889]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.22-17.16.07:904][889]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.22-17.16.07:904][889]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.03.22-17.16.07:904][889]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.22-17.16.07:904][889]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.03.22-17.16.07:904][889]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.22-17.16.07:905][889]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.22-17.16.07:905][889]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.22-17.16.07:905][889]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.22-17.16.07:908][889]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.22-17.16.08:011][889]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek High Definition Audio)
+[2023.03.22-17.16.08:011][889]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.22-17.16.08:011][889]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.22-17.16.08:011][889]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.22-17.16.08:012][889]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.03.22-17.16.08:012][889]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.03.22-17.16.08:015][889]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.03.22-17.16.08:015][889]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.03.22-17.16.08:015][889]LogInit: FAudioDevice initialized.
+[2023.03.22-17.16.08:015][889]LogAudio: Display: Audio Device (ID: 13) registered with world 'MyDemo'.
+[2023.03.22-17.16.08:018][889]LogLoad: Game class is 'HorrorEngineGameMode_C'
+[2023.03.22-17.16.08:052][889]LogWorld: Bringing World /Game/HorrorEngine/Maps/UEDPIE_0_MyDemo.MyDemo up for play (max tick rate 0) at 2023.03.22-20.16.08
+[2023.03.22-17.16.08:053][889]LogWorld: Bringing up level for play took: 0.035079
+[2023.03.22-17.16.08:055][889]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.03.22-17.16.08:056][889]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2023.03.22-17.16.08:063][889]PIE: Server logged in
+[2023.03.22-17.16.08:064][889]PIE: Play in editor total start time 0,285 seconds.
+[2023.03.22-17.16.14:294][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-17.16.14:295][396]LogWorld: BeginTearingDown for /Game/HorrorEngine/Maps/UEDPIE_0_MyDemo
+[2023.03.22-17.16.14:295][396]LogWorld: UWorld::CleanupWorld for MyDemo, bSessionEnded=true, bCleanupResources=true
+[2023.03.22-17.16.14:299][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.16.14:303][396]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.22-17.16.14:308][396]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.22-17.16.14:329][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.22-17.16.14:333][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.03.22-17.16.14:335][396]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.03.22-17.16.14:349][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.03.22-17.16.14:422][397]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.03.22-17.16.16:267][504]Cmd: DELETE
+[2023.03.22-17.16.16:267][504]Cmd: ACTOR DELETE
+[2023.03.22-17.16.16:283][504]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.03.22-17.16.16:307][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2023.03.22-17.16.16:310][504]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2023.03.22-17.16.51:785][759]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.22-17.18.18:987][ 21]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.22-17.18.38:750][ 80]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.22-17.18.58:416][139]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.03.22-17.19.14:811][188]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
